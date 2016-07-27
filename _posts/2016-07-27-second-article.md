@@ -1,8 +1,7 @@
 ---
 layout: post
-title: A Test File.
+title: 一个测试帖子.
 description: 测试是否生效！不用点开看了
-date: 2016-07-23 00:00:00
 category: blog
 ---
 
