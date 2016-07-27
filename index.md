@@ -8,7 +8,6 @@ layout: default
       <div class="info-card">
         <h1>半瓶子晃荡</h1>
       </div>
-      <div id="particles-js"></div>
     </div>
 
     <div class="index-content">
