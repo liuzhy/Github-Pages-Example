@@ -2,7 +2,7 @@
 layout: post
 title: 文字如何转变成了数字
 description: 我们已经生活在数字世界，本文作为系列文章之一，粗浅的介绍，文字如何变成数字在这个世界运行
-category: know-world
+category: blog
 date: 2017-01-03 00:00:00
 ---
 
