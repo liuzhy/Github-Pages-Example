@@ -108,6 +108,7 @@ a.external:hover {
   margin-top:30px;
   border-bottom:1px solid #eee;
   background-color: #ccc;
+  border-radius: 2%;
 }
 .index-wrapper .title {
   display: block;
