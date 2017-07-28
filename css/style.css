@@ -60,8 +60,8 @@ a.external:hover {
   position: fixed;
   top: 0;
   left: 0;
-  width: 30%;
-  height: 100%;
+  width: 100%;
+  height: 120px;
   max-width: 500px;
   background: #59a0b0;
 }
@@ -69,7 +69,7 @@ a.external:hover {
   .index-wrapper .aside {
     position: relative;
     width: 100%;
-    height: 200px;
+    height: 120px;
     max-width: none;
   }
 }
@@ -96,9 +96,9 @@ a.external:hover {
   margin: 0 15px;
 }
 .index-wrapper .index-content {
-  margin-left: 30%;
-  padding-top: 80px;
-  padding-right: 15%;
+  margin-left: 0;
+  padding-top: 40px;
+  padding-right: 0;
 }
 @media screen and (max-width: 767px) {
   .index-wrapper .index-content {
