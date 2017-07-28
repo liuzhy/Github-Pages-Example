@@ -95,7 +95,7 @@ a.external:hover {
   }
 }
 .index-wrapper .artical-list {
-  width: 70%;
+  width: 60%;
   margin: 0 auto;
 }
 @media screen and (max-width: 767px) {
@@ -107,7 +107,6 @@ a.external:hover {
   margin-bottom: 60px;
   margin-top:30px;
   border-bottom:1px solid #eee;
-  max-width: 60%;
   background-color: #ccc;
 }
 .index-wrapper .title {
