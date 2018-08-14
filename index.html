@@ -13,7 +13,7 @@ layout: default
 	  		</a>
 	  	</h2>
       <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line"> 
-      	<i>摘要：{{ post.description | strip_html | truncatewords:50 }}... 发表于 {{ post.date | date_to_string }}</i> 
+      	<i>{{ post.description | strip_html | truncatewords:50 }}...<small>发表于 {{ post.date | date_to_string }}</small></i> 
       </time>
 	  </li>
 
