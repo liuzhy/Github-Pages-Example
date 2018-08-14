@@ -1,9 +1,43 @@
-permalink: /:title
+# Site settings
+title: 半瓶子晃悠
+description: "专业修理电脑"
+url: "https://liuzhy.com"
+author:
+  name: "Zhengyu Liu"
+  email: "liuzhy@gmail.com"
+  url: "https://liuzhy.com"
 
-title: 半瓶子晃荡
-url: https://liuzhy.com
-feed: /atom.xml
-author_info: <a href="https://liuzhy.com/">Liu Zhengyu</a>
+# Build settings
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Custom variables
+version: "1.0.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
 
 # Comments
 comments:
