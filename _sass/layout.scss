@@ -239,8 +239,12 @@ code {
     background-color: darken($background-color, 5%);
     color: $text-color;
   }
+  a {
+    background-color: darken($background-color, 5%);
+    color: #1abc9c;
+  }
   a:hover {
-    background-color: lighten($text-color, 5%);
+    /* background-color: lighten($text-color, 5%); */
   }
 }
 .page-item {
@@ -254,6 +258,7 @@ code {
       -ms-border-radius: 4px;
           border-radius: 4px;
 }
+
 
 /* Footer */
 
