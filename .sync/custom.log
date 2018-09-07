@@ -85,3 +85,100 @@
 2018-09-07 10:09:16: /Users/liuzhy/Documents/GitHub/liuzhy.github.io/_sass/layout.scss update
 2018-09-07 10:09:16: /Users/liuzhy/Documents/GitHub/liuzhy.github.io/_sass/custom.scss update
 2018-09-07 10:09:16: /Users/liuzhy/Documents/GitHub/liuzhy.github.io/_sass/typography.scss update
+2018-09-07 10:09:23: custom-sync [master aa9f779] update
+ 90 files changed, 251 insertions(+), 1 deletion(-)
+ create mode 100644 .markeditor/file_manager_status.config
+ create mode 100644 .markeditor/sync_custom.config.config
+ create mode 100644 .sync/custom.log
+ create mode 100644 .sync/custom/056301054c43f8bbea2090debfec16b1
+ create mode 100644 .sync/custom/069b43764c091e01f6d2c8663954aedc
+ create mode 100644 .sync/custom/0730bb7c2e8f9ea2438b52e419dd86c9
+ create mode 100644 .sync/custom/0b32dac394606a56623fae61e696e327
+ create mode 100644 .sync/custom/0b98fba3ff6d83baa7a2204e1c85ca03
+ create mode 100644 .sync/custom/0d0a5ecf97cef896042ce1a289096e8b
+ create mode 100644 .sync/custom/11a8e44d174dadf1ce44d831a1f4bc07
+ create mode 100644 .sync/custom/121e845afd31b2bf8b558cb1eff9c0ae
+ create mode 100644 .sync/custom/1360cec8260b8f0725ad1f3708708974
+ create mode 100644 .sync/custom/177aafc3ca91e15dbc0d926bf9dacca0
+ create mode 100644 .sync/custom/1a92a52539a7e6088211e64b6e1fac8c
+ create mode 100644 .sync/custom/1b569762e9b007df6f2f0e96efed45cb
+ create mode 100644 .sync/custom/2118c6089ff6235b066716a7361a4b45
+ create mode 100644 .sync/custom/25241d23971b0e3c90ad1ef9c97bee04
+ create mode 100644 .sync/custom/2705f26365aca8157884bd46980ed0e8
+ create mode 100644 .sync/custom/27687ffd25f7144425c299cedb93306d
+ create mode 100644 .sync/custom/2ab99c2bc184ebc41de0c2d88a6be01b
+ create mode 100644 .sync/custom/2c19d9859b055d0302043d0fa2833e3f
+ create mode 100644 .sync/custom/2d50619f126a12162223a89f7b15c54e
+ create mode 100644 .sync/custom/2d829f6c695083c14bea611db568b443
+ create mode 100644 .sync/custom/32981a13284db7a021131df49e6cd203
+ create mode 100644 .sync/custom/344ca4846d0d4e0c3134c4a34ba52c82
+ create mode 100644 .sync/custom/353b6809dec214edb91abdd30855b129
+ create mode 100644 .sync/custom/384a80845b2c7a071a9ce37a705d36e5
+ create mode 100644 .sync/custom/3a72074a45950fe5edcb02ceb6c02e6e
+ create mode 100644 .sync/custom/3d43a859b89befcff236477b6c724325
+ create mode 100644 .sync/custom/4af7f71b9f3318d269b6f2663a73c674
+ create mode 100644 .sync/custom/4fc0e3e06ba9c3a5f44dfd156aa9d1f0
+ create mode 100644 .sync/custom/50c6230828510433d44646e1237075e4
+ create mode 100644 .sync/custom/53e892b8b41cc4caece1cfd5ef21d6e7
+ create mode 100644 .sync/custom/57823f3d19b168e73527501054166fbf
+ create mode 100644 .sync/custom/59b514174bffe4ae402b3d63aad79fe0
+ create mode 100644 .sync/custom/5ab21e6d42838a12a71a618cf1f4dce6
+ create mode 100644 .sync/custom/5f0950b0e2f91a0ef4f8291d4cb3bcc1
+ create mode 100644 .sync/custom/5f4572e3201b244c396049e2b2e218ec
+ create mode 100644 .sync/custom/6083a88ee3411b0d17ce02d738f69d47
+ create mode 100644 .sync/custom/63f91afc21b9d691675d5ec0fe208f26
+ create mode 100644 .sync/custom/65fe07aa029274512117d182d052be7f
+ create mode 100644 .sync/custom/663f387b6a1a407ab38de055a12bc7c8
+ create mode 100644 .sync/custom/6710e3db026eab10a4011d2b55ce31f2
+ create mode 100644 .sync/custom/671a7abc93ac2861a87e85c75a01935b
+ create mode 100644 .sync/custom/67364377bc12c436673c8ad7fdc16ff3
+ create mode 100644 .sync/custom/6ef37d65bd28a2da1320cff43700e674
+ create mode 100644 .sync/custom/72b0adbe66cbcc24d0a3f5ed05f23c68
+ create mode 100644 .sync/custom/744b0731ed2448ba7e6ce2bbea0634e5
+ create mode 100644 .sync/custom/7693eb643e8fe8b8d46b407909b408ce
+ create mode 100644 .sync/custom/77ab163850ef0fa98d6a9ee9fb6bbcaf
+ create mode 100644 .sync/custom/7df22fd226b1fab0556cace2c3dec67b
+ create mode 100644 .sync/custom/812b0c7dbf1a02794819f53a04470ea2
+ create mode 100644 .sync/custom/822e9cf54ee310f9a7ebd0d16c9ae066
+ create mode 100644 .sync/custom/831ca5472e031dc0bb63f628a8d8b72e
+ create mode 100644 .sync/custom/8af3a74ede48e250ceb935c026242483
+ create mode 100644 .sync/custom/964b9d64cf5c4f838a87200c73eb53bb
+ create mode 100644 .sync/custom/96803ff94e61417cd9dd20b6342bb16a
+ create mode 100644 .sync/custom/9815fb93fc643854182d1a6ce730ec86
+ create mode 100644 .sync/custom/9af722361e71130b8a3e7cbaa200158a
+ create mode 100644 .sync/custom/9bf3e3e033566647421f77b78f271ab4
+ create mode 100644 .sync/custom/9ed735e07edd6341ba0d3503dd1965c7
+ create mode 100644 .sync/custom/a02b88ee983bb0d970ce3979195ae56f
+ create mode 100644 .sync/custom/a0cad89a5d0b11d125759828a89c7838
+ create mode 100644 .sync/custom/a47ec82e2a66550c19ac2ecb2451ea89
+ create mode 100644 .sync/custom/a733cbfd0ba7154ae7fbb0f298a8ec6e
+ create mode 100644 .sync/custom/aa8eb2fe477b2d36ecc0f14d6422513f
+ create mode 100644 .sync/custom/ad51e5da25a9033d8e045d219725624f
+ create mode 100644 .sync/custom/aeb42283af8ef8e9da40ededd3ae2ab2
+ create mode 100644 .sync/custom/b798abe6e1b1318ee36b0dcb3fb9e4d3
+ create mode 100644 .sync/custom/ba3b6eb2260030b4fc004381ccec4412
+ create mode 100644 .sync/custom/c0d78a8ee4acb01e4c73aa2d64f33e29
+ create mode 100644 .sync/custom/c23f7ab876ac167e05468ef79f046cb7
+ create mode 100644 .sync/custom/c31f59e556fadc32b5ffc80b028cc7ac
+ create mode 100644 .sync/custom/c7a628cba22e28eb17b5f5c6ae2a266a
+ create mode 100644 .sync/custom/ce69081b956e9ff666050e5cbe90fb1c
+ create mode 100644 .sync/custom/cf9ac72db0894344c3efaf78f8efc863
+ create mode 100644 .sync/custom/d4df69233ebcbc726f6ac1b79f50d41a
+ create mode 100644 .sync/custom/d7203f3807a868482d7b05a3cd72223f
+ create mode 100644 .sync/custom/d9fcd1964674ec48ec26cccdc2d98dec
+ create mode 100644 .sync/custom/ddedac2eb58ec6c0abac790f24f09612
+ create mode 100644 .sync/custom/e2a2ff2d1ad978ada529597257972458
+ create mode 100644 .sync/custom/e921a390257abd15c1742300f2417b13
+ create mode 100644 .sync/custom/eacf331f0ffc35d4b482f1d15a887d3b
+ create mode 100644 .sync/custom/f4dc7b4c58393671310a835f9ae42623
+ create mode 100644 .sync/custom/f8b314ad6a0ec770f55bcd9964f9515a
+ create mode 100644 .sync/custom/f96565e9dd7f3245a0d2fb5ace51dc95
+ create mode 100644 .sync/custom/fad1658109449aff81db1adf8195ad26
+ create mode 100644 .sync/custom/fcbb3f40db051d5898cc460c893a4e2c
+ create mode 100644 configs/sorts.json
+2018-09-07 10:09:23 sync ended
+2018-09-07 10:09:39: custom-sync Already up to date.
+2018-09-07 10:16:50 start to sync now
+2018-09-07 10:16:50 will try to sync 2 files to server
+2018-09-07 10:16:50: /Users/liuzhy/Documents/GitHub/liuzhy.github.io/_posts/2018-09-07-what-is-life.md update
+2018-09-07 10:16:50: /Users/liuzhy/Documents/GitHub/liuzhy.github.io/configs/sorts.json update
