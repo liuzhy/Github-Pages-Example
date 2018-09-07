@@ -182,3 +182,17 @@
 2018-09-07 10:16:50 will try to sync 2 files to server
 2018-09-07 10:16:50: /Users/liuzhy/Documents/GitHub/liuzhy.github.io/_posts/2018-09-07-what-is-life.md update
 2018-09-07 10:16:50: /Users/liuzhy/Documents/GitHub/liuzhy.github.io/configs/sorts.json update
+2018-09-07 10:16:57: custom-sync [master 6613661] update
+ 10 files changed, 195 insertions(+), 26 deletions(-)
+ create mode 100644 .markeditor/folder_config.config
+ create mode 100644 .sync/custom/c3f0b6e514b9a830b941cef017b27413
+ create mode 100644 _posts/.Archive/2018-09-07-what-is-life.md/2018-09-07 10-11-21.md
+ create mode 100644 _posts/.Archive/2018-09-07-what-is-life.md/2018-09-07 10-14-45.md
+ create mode 100644 _posts/.Archive/2018-09-07-what-is-life.md/2018-09-07 10-15-51.md
+ create mode 100644 _posts/.markeditor/file_sort.config
+ create mode 100644 _posts/2018-09-07-what-is-life.md
+2018-09-07 10:16:57 sync ended
+2018-09-07 10:27:51 start to sync now
+2018-09-07 10:27:51 will try to sync 2 files to server
+2018-09-07 10:27:51: /Users/liuzhy/Documents/GitHub/liuzhy.github.io/_posts/2018-09-07-what-is-life.md update
+2018-09-07 10:27:51: /Users/liuzhy/Documents/GitHub/liuzhy.github.io/configs/sorts.json update
