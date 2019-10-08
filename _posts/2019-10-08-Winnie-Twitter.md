@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 来自twitter的Winnie
+title: 来自twitter上Winnie的成长记录
 description: 摘录
-category: blog-hide
+category: blog
 date: 2019-10-08 00:00:00
 ---
 
