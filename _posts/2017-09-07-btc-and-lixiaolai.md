@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 数字货币与李笑来
-description: 一个新手的粗浅认识
+description: 一个新手的粗浅认识（2019年10月8日有一点增补）
 category: blog
 date: 2017-09-07 15:37:00 +0800
 ---
